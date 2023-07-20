@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedrammarandi" alt="pedrammarandi" /></a> </p>
 
-- 🔭 I’m currently working on [Shoppy Commerce](http://shoppycommerce.com.au/)
+- 🔭 I’m currently working for DatameshGroup
 
 - 🌱 I’m currently learning **Finance and Trading**
 
